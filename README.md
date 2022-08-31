@@ -5,4 +5,5 @@ Users will enter the data that is requested from the terminal and the applicatio
 
 
 Here is an example of the aplicaiton after execution
-![Screenshot (143)](https://user-images.githubusercontent.com/76454677/187676981-1f2013e0-0523-48a2-96a1-64fcf5ebc7c1.png)
+![Screenshot (146)](https://user-images.githubusercontent.com/76454677/187681552-33a5033e-1304-4436-b735-a90bf10fe170.png)
+![Screenshot (145)](https://user-images.githubusercontent.com/76454677/187681589-5aa3b9a3-1eb1-4fad-b0b7-d03e7ad23150.png)
