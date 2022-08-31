@@ -10,7 +10,7 @@
   * [Contribution](#contribution)
   * [Testing](#testing)
 
-##Description
+## Description
 An application made with the purpose of making people unlock their potential
 ##Installation
 simply install on IOS or Android

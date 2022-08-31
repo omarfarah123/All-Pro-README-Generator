@@ -148,23 +148,23 @@ inquirer
   * [Contribution](#contribution)
   * [Testing](#testing)
 
-##Description
+## Description
 ${response.description}
-##Installation
+## Installation
 ${response.installation}
-##Use
+## Use
 ${response.use}
-##License
+## License
 ${response.license}
-##Contribution
+## Contribution
 ${response.contribution}
-##Testing
+## Testing
 ${response.testing}
-##Questions
+## Questions
 This project is managed by ${response.username}
 You can find me on github at https://github.com/${response.github}
 Additional Questions you can email me at ${response.email}
-###License
+### License
 The software is available to all under the ${response.license}. You can learn more about this license at ${ licenseInfo[ licenses.indexOf(response.license) ] }`
 
       fs.writeFile(`${__dirname}\\Generated_README.md`, readME,  function (err) {
