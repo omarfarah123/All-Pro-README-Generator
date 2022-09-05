@@ -1,5 +1,5 @@
-# MOOM
-[![License](https://img.shields.io/badge/License-Boost%20Software%20License%201.0-green.svg)](./Boost Software License 1.0)
+# MOOMERS
+[![License](https://img.shields.io/badge/License-BSD%203-clause%20"New"%20or%20"Revised"%20license-green.svg)](./https://choosealicense.com/licenses/bsd-3-clause/)
 #### Table of Contents
 - [All=Pro-README-Generator](#all-pro-readme-generator)
 - [Table of Contents:](#table-of-contents-)
@@ -11,20 +11,20 @@
   * [Testing](#testing)
 
 ## Description
-creating bonds between mothers and their children
+connecting moms all over the dunya
 ## Installation
-Simply installl on IOS and android
+Find on IOS and Android
 ## Use
 Used for communication
 ## License
-Boost Software License 1.0
+BSD 3-clause "New" or "Revised" license
 ## Contribution
-Open souce rimply submit code for a review
+open souce
 ## Testing
-Testing is not restricred
+test free 
 ## Questions
-This project is managed by omarfarah123
+This project is managed by oomarfarah123
 You can find me on github at https://github.com/undefined
 Additional Questions you can email me at cronogy@gmail.com
 ### License
-The software is available to all under the Boost Software License 1.0. You can learn more about this license at https://www.boost.org/LICENSE_1_0.txt
+The software is available to all under the BSD 3-clause "New" or "Revised" license. You can learn more about this license at https://choosealicense.com/licenses/bsd-3-clause/
