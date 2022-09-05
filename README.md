@@ -4,8 +4,7 @@ This application is the all pro readme generator. Its purpose is to make life ea
 Users will enter the data that is requested from the terminal and the application will create the file for them
 
 
-Here is an example of the aplicaiton after execution
-![Screenshot (146)](https://user-images.githubusercontent.com/76454677/187681552-33a5033e-1304-4436-b735-a90bf10fe170.png)
-![Screenshot (145)](https://user-images.githubusercontent.com/76454677/187681589-5aa3b9a3-1eb1-4fad-b0b7-d03e7ad23150.png)
-Here is a walkthrough
-[Untitled_ Sep 5, 2022 2_54 PM.webm](https://user-images.githubusercontent.com/76454677/188502615-06155838-dc20-418b-80ab-f8baa748eac1.webm)
+Here is the application after execution
+![Screenshot (147)](https://user-images.githubusercontent.com/76454677/188512380-bf995ee1-6fcc-465d-b596-ed6d02bc2e86.png)
+Here is an example of the generated readme file
+![Screenshot (148)](https://user-images.githubusercontent.com/76454677/188512425-aa0f19fb-ee94-4a65-a909-ec75d575e10b.png)
