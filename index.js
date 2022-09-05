@@ -127,6 +127,7 @@ inquirer
   ])
   .then((response) => {
       console.log("EXECUTING...")
+      //Getting index for inserting the correct link
       var index = licenses.findIndex((license)=> license == response.license)
       if(fs.existsSync(`${__dirname}\\Generated_README.md`)){
         red();
@@ -137,9 +138,9 @@ inquirer
             console.error(err)
       }
     }
-    
+    //REadMe file template
       const readME = `# ${response.title}
-[![License](https://img.shields.io/badge/License-${response.license.replace(/\s/g,'%20')}-green.svg)](./${licenseInfo[index]})
+[![License](https://img.shields.io/badge/License-${response.license.replace(/\s/g,'%20')}-green.svg)](${licenseInfo[index]})
 #### Table of Contents
 - [All=Pro-README-Generator](#all-pro-readme-generator)
 - [Table of Contents:](#table-of-contents-)
@@ -168,12 +169,14 @@ You can find me on github at https://github.com/${response.github}
 Additional Questions you can email me at ${response.email}
 ### License
 The software is available to all under the ${response.license}. You can learn more about this license at ${ licenseInfo[ licenses.indexOf(response.license) ] }`
-
+      //File creation
       fs.writeFile(`${__dirname}\\Generated_README.md`, readME,  function (err) {
             if (err) throw err;
             green();
             console.log(`The file has been saved. Path is ${__dirname}\\Generated_README.md`);
+            //On successful file creation this opens the file location
             require('child_process').exec(`start "" "${__dirname}"`);
+            //Reserts the terminal
             reset()
         });
      } );

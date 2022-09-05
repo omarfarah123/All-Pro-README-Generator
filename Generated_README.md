@@ -1,5 +1,5 @@
-# mom
-[![License](https://img.shields.io/badge/License-Academic%20Free%20License%20v3.0-green.svg)](./)
+# moom
+[![License](https://img.shields.io/badge/License-Academic%20Free%20License%20v3.0-green.svg)](https://opensource.org/licenses/AFL-3.0)
 #### Table of Contents
 - [All=Pro-README-Generator](#all-pro-readme-generator)
 - [Table of Contents:](#table-of-contents-)
@@ -11,20 +11,20 @@
   * [Testing](#testing)
 
 ## Description
-fgbvsdb
+bvdfs
 ## Installation
-fs
+bsd
 ## Use
-bvfs
+bfd
 ## License
 Academic Free License v3.0
 ## Contribution
-fsdgs
+
 ## Testing
-gs
+
 ## Questions
-This project is managed by adf
+This project is managed by modc
 You can find me on github at https://github.com/undefined
-Additional Questions you can email me at asg
+Additional Questions you can email me at sdfvfs
 ### License
 The software is available to all under the Academic Free License v3.0. You can learn more about this license at https://opensource.org/licenses/AFL-3.0
