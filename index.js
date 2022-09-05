@@ -127,6 +127,7 @@ inquirer
   ])
   .then((response) => {
       console.log("EXECUTING...")
+      var index = licenses.findIndex((license)=> license == response.license)
       if(fs.existsSync(`${__dirname}\\Generated_README.md`)){
         red();
       try {
@@ -136,8 +137,9 @@ inquirer
             console.error(err)
       }
     }
+    
       const readME = `# ${response.title}
-[![License](https://img.shields.io/badge/License-${response.license.replace(/\s/g,'%20')}-green.svg)](./LICENSE)
+[![License](https://img.shields.io/badge/License-${response.license.replace(/\s/g,'%20')}-green.svg)](./${licenseInfo[index]})
 #### Table of Contents
 - [All=Pro-README-Generator](#all-pro-readme-generator)
 - [Table of Contents:](#table-of-contents-)
