@@ -1,6 +1,5 @@
 # MOOMERS
-[![License](https://img.shields.io/badge/License-BSD%203-clause%20"New"%20or%20"Revised"%20license-green.svg)](./https://choosealicense.com/licenses/bsd-3-clause/)
-[![License](https://img.shields.io/badge/License-Bolol-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+[![License](https://img.shields.io/badge/License-Academic%20Free%20License%20v3.0-green.svg)](https://opensource.org/licenses/AFL-3.0)
 #### Table of Contents
 - [All=Pro-README-Generator](#all-pro-readme-generator)
 - [Table of Contents:](#table-of-contents-)
